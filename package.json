@@ -1,0 +1,22 @@
+{
+  "name": "fontconverter",
+  "version": "1.0.0",
+  "description": "A converter to help you with your ttf files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yifeidongNEW/fontconverter.git"
+  },
+  "keywords": [
+    "h1canjian8"
+  ],
+  "author": "yifeidong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yifeidongNEW/fontconverter/issues"
+  },
+  "homepage": "https://github.com/yifeidongNEW/fontconverter#readme"
+}
